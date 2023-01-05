@@ -6,7 +6,7 @@
 /* Header and navigation styles */
 
 .header {
-  background: #fff8f3;
+  background: #afffda;
   background-image: url("../images/header_bg.png"),
     url("../images/developer.png");
   background-repeat: no-repeat;
@@ -15,7 +15,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+  padding: 50px 200px;
 }
 nav li {
   list-style: none;
