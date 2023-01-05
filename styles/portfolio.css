@@ -180,3 +180,36 @@ main {
     margin-top: 50px;
     text-align: center;
 }
+.right-align {
+    text-align: right;
+}
+
+/* contact styles */
+
+.contact {
+    display: flex;
+    gap: 100px;
+    background-color: #fff8f3;
+    padding: 130px 200px;
+}
+.contact .section-title {
+    text-align: left;
+}
+.contact .section-description {
+    margin-bottom: 30px;
+}  
+.contact input[type="text"], input[type="email"], textarea {
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+.your-message {
+    height: 80px;
+}
+.icon-list .icon {
+    margin: 24px;
+}
+.contact a {
+    text-decoration: none;
+}
